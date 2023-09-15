@@ -1,0 +1,4 @@
+geometry_msgs/Point position_1
+geometry_msgs/Point position_2
+---
+bool success

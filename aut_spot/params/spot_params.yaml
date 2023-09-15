@@ -1,0 +1,8 @@
+spot_data:
+  ros__parameters:
+    spot_state_frequency: 50
+    spot_ip: "192.168.80.3"
+    spot_username: "user"
+    spot_password: "upsa43jm7vnf"
+    spot_fiducials_frequency: 2
+    spot_local_map_frequency: 10

@@ -1,0 +1,9 @@
+slam:
+    ros__parameters:
+        rad_new_key_frame: 0.17
+        dist_new_key_frame: 0.2
+        map_frequency: 1.0
+        loop_frequency: 1.0
+        loop_search_dist: 1.0
+        nbr_frames_before_loop: 50
+        loop_candidate_local_map_size: 50

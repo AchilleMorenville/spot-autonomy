@@ -1,0 +1,3 @@
+localization:
+    ros__parameters:
+        n_particles: 1000

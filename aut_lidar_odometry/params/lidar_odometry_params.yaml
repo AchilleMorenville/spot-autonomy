@@ -1,0 +1,14 @@
+lidar_odometry:
+    ros__parameters:
+        edge_leaf_size: 0.05
+        flat_leaf_size: 0.1
+        rad_new_key_frame: 0.17
+        dist_new_key_frame: 0.2
+        max_deque_size: 50
+feature_extraction:
+    ros__parameters:
+        edge_leaf_size: 0.05
+        flat_leaf_size: 0.1
+        rad_new_key_frame: 0.17
+        dist_new_key_frame: 0.2
+        max_deque_size: 50
